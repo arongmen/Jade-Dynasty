@@ -1,0 +1,10 @@
+C:\Users\s4567\source\repos\expeditor\expeditor\bin\x86\Debug\expeditor.exe.config
+C:\Users\s4567\source\repos\expeditor\expeditor\bin\x86\Debug\expeditor.exe
+C:\Users\s4567\source\repos\expeditor\expeditor\bin\x86\Debug\expeditor.pdb
+C:\Users\s4567\source\repos\expeditor\expeditor\obj\x86\Debug\expeditor.csprojResolveAssemblyReference.cache
+C:\Users\s4567\source\repos\expeditor\expeditor\obj\x86\Debug\expeditor.Form1.resources
+C:\Users\s4567\source\repos\expeditor\expeditor\obj\x86\Debug\expeditor.Properties.Resources.resources
+C:\Users\s4567\source\repos\expeditor\expeditor\obj\x86\Debug\expeditor.csproj.GenerateResource.Cache
+C:\Users\s4567\source\repos\expeditor\expeditor\obj\x86\Debug\expeditor.csproj.CoreCompileInputs.cache
+C:\Users\s4567\source\repos\expeditor\expeditor\obj\x86\Debug\expeditor.exe
+C:\Users\s4567\source\repos\expeditor\expeditor\obj\x86\Debug\expeditor.pdb
