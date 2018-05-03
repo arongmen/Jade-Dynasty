@@ -1,6 +1,6 @@
 ﻿#pragma once
 
-#include "boutique.h"
+#include "boutique.h" // Петя лох
 
 using namespace System;
 using namespace System::IO;
